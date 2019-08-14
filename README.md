@@ -1,9 +1,5 @@
 # ngocol
-NgoCol a.k.a Ngobrol di COnsoLe, Proof of Concept gRPC programming dengan Go,
-
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+NgoCol a.k.a Ngobrol di COnsoLe, Proof of Concept gRPC programming dengan Go.
 
 ## Server
 ```sh
